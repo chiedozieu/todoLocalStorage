@@ -38,7 +38,7 @@ function App() {
     >
    
       <div className="bg-gray-100 max-h-screen">
-       <h1 className="text-3xl font-bold text-center p-4 text-gray-800"> Todo List</h1> 
+       <h1 className="text-3xl font-bold text-center p-4 text-gray-800"> To do List</h1> 
         <div className="flex flex-col h-screen p-8 max-w-2xl mx-auto ">
           <div className="w-full">
             <TodoForm />
