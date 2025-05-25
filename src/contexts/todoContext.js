@@ -6,7 +6,6 @@ export const todoContext = createContext({
         {
             id: 1,
             title: 'Todo 1',
-            description: 'Description 1',
             completed: false
         }
     ],
